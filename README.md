@@ -1,6 +1,6 @@
 # __RETO MASTER SEMANA #1__
 
-Azure es una plataforma en la nmube que ofrece servicios para crear soluciones satisfactorias a objetivos empresariales.
+Azure es una plataforma en la nube que ofrece servicios para crear soluciones satisfactorias a objetivos empresariales.
 
 ## __Aspectos basicos de Azure.__
 
@@ -20,12 +20,17 @@ Azure es una plataforma en la nmube que ofrece servicios para crear soluciones s
 
 7. __Recuperacion ante desastres:__ al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
-## __Modelos de servicio en la nube__
+## __Modelos de servicio en la nube.__
 Estos modelos definen los diferentes niveles de responsabilidad compartida de un proveedor de nube y un inquilino de la nube.
 
 1. __IaaS:__ Infraestructura como servicio.
 2. __PaaS:__ Plataforma como servicio.
 3. __SaaS:__ Software como servicio.
 
-## __La informatica sin servidor__
+## __La informatica sin servidor.__
 La informática sin servidor se superpone a PaaS y permite que los desarrolladores creen aplicaciones más rápidamente, ya que elimina la necesidad de administrar la infraestructura.
+
+## __Nube publica, privada e hibrida.__
+1. __Nube publica:__ Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos. Los recursos de nube como los servidores y el almacenamiento son propiedad de un proveedor de servicios en la nube de terceros, que los explota y distribuye a través de Internet.
+2. __Nube privada:__ Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización. Una nube privada puede estar ubicada físicamente en el centro de datos local de la organización. También la puede hospedar un proveedor de servicios de terceros.
+3. __Nube hibrida:__ Este entorno informático combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
